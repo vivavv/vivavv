@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/vivavv)
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vivavv)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--START_SECTION:waka-->
 ```text
