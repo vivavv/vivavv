@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 <!--**vivavv/vivavv** -->
-[![Twitter Badge](https://img.shields.io/badge/@vivirod27?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ViviRod27)]
+[![Twitter Badge](https://img.shields.io/badge/-@ViviRod27-1ca0f1?labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ViviRod27)]
 
 
 <!--START_SECTION:waka-->
