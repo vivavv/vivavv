@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 [![Telegram Badge](https://img.shields.io/badge/-vivavv-black?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/vivavv)](https://t.me/vivavv)
 
 
-![views](https://view-badge.glitch.me/badge?page_id=https://github.com/vivavv)
+![views](https://visitors-badge.glitch.me/badge?page_id=https://github.com/vivavv)
 
 <!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vivavv&count_private=true&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats) -->
 
