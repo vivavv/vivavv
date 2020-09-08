@@ -18,6 +18,10 @@ Here are some ideas to get you started:
 <img src="https://media.giphy.com/media/fngeQvy995JpJhoMgz/giphy.gif" width="250" height="190" />
 
 
+<!--**vivavv/vivavv** -->
+[![Twitter Badge](https://img.shields.io/badge/-@vivirod27-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ViviRod27)]
+
+
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
