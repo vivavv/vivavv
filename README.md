@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://media.giphy.com/media/fngeQvy995JpJhoMgz/giphy.gif" width="300" height="270" />
+<img src="https://media.giphy.com/media/fngeQvy995JpJhoMgz/giphy.gif" width="280" height="240" />
 
 
 <!--START_SECTION:waka-->
