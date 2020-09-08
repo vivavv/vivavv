@@ -3,6 +3,8 @@
 <!--
 **vivavv/vivavv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+![Alt Text](https://giphy.com/stickers/love-cat-fngeQvy995JpJhoMgz)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
