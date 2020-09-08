@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/vivavv)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vivavv&count_private=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vivavv&count_private=true&show_icons=true&include_all_commits&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--START_SECTION:waka-->
