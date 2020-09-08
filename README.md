@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 [![Twitter Badge](https://img.shields.io/badge/-@ViviRod27-1ca0f1??style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ViviRod27)](https://twitter.com/ViviRod27)
 [![Linkedin Badge](https://img.shields.io/badge/-vivianavrc-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vivianavrc/)](https://www.linkedin.com/in/vivianavrc/)
 [![Gmail Badge](https://img.shields.io/badge/-vivianavrc27@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vivianavrc27@gmail.com)](mailto:vivianavrc27@gmail.com)
+[![Telegram Badge](https://img.shields.io/badge/-vivavv-black?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/vivavv)](https://t.me/vivavv)
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/vivavv)
