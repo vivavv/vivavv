@@ -30,11 +30,6 @@ Here are some ideas to get you started:
 <!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vivavv&count_private=true&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats) -->
 
  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=vivavv&count_private=true&show_icons=true&theme=material-palenight"/>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vivavv&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
