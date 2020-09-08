@@ -3,7 +3,7 @@
 <!--
 **vivavv/vivavv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![](https://giphy.com/stickers/love-cat-fngeQvy995JpJhoMgz)
+![](https://media.giphy.com/media/fngeQvy995JpJhoMgz/giphy.gif)
 
 Here are some ideas to get you started:
 
