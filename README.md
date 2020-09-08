@@ -15,13 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://media.giphy.com/media/fngeQvy995JpJhoMgz/giphy.gif" width="250" height="190" />
+<img src="https://media.giphy.com/media/fngeQvy995JpJhoMgz/giphy.gif" width="250" height="190" align="right" />
 
 
 <!--**vivavv/vivavv** -->
 [![Twitter Badge](https://img.shields.io/badge/-@ViviRod27-1ca0f1??style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ViviRod27)](https://twitter.com/ViviRod27)
 [![Linkedin Badge](https://img.shields.io/badge/-vivianavrc-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vivianavrc/)](https://www.linkedin.com/in/vivianavrc/)
 [![Gmail Badge](https://img.shields.io/badge/-vivianavrc27@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vivianavrc27@gmail.com)](mailto:vivianavrc27@gmail.com)
+
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/vivavv)
 
 
 <!--START_SECTION:waka-->
