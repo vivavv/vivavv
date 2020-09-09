@@ -78,11 +78,10 @@ Hello! I'm a Front-end and Unity Developer👾 I speak Spanish, English and some
 <br />
 
 <!--START_SECTION:waka-->
-
 ```text
-No Activity tracked this Week
+JavaScript   6 mins          ████████████████████▒░░░░   81.58 % 
+Text         1 min           ████▓░░░░░░░░░░░░░░░░░░░░   18.42 % 
 ```
-
 <!--END_SECTION:waka-->
 
 <br />
