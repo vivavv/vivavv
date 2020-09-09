@@ -27,12 +27,9 @@
 
 ![](https://komarev.com/ghpvc/?username=vivavv&color=blueviolet&label=views)
 
-
-<br />
 <span>
 Hello! I'm a Front-end and Unity Developer👾 I speak Spanish, English and some French!🌎
 </span>
-<br />
 
 <!-- Description -->
 
@@ -87,5 +84,5 @@ Text         1 min           ████▓░░░░░░░░░░░░
 
 <br />
 <p align="center">
-  <img width="400" height="203" alt="bt21-gif" src="https://pa1.narvii.com/6649/750dc3b830727911dc40f017c8929f2b225917fa_hq.gif">
+  <img width="400" height="183" alt="bt21-gif" src="https://pa1.narvii.com/6649/750dc3b830727911dc40f017c8929f2b225917fa_hq.gif">
 </p>
