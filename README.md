@@ -23,10 +23,13 @@
  <img align="left" alt="Deezer" title="Deezer" height="28" width="28" src="https://img.icons8.com/color/2x/deezer.png">
 </a>
 
-<br />
-Hello! I'm a Front-end and Unity Developer👾 I speak Spanish, English and some French!🌎
+![](https://komarev.com/ghpvc/?username=vivavv&color=blueviolet&label=views)
 
-<img src="https://media.giphy.com/media/9PwWklO9tSELtIhBka/giphy.gif" width="250" height="190" align="right" alt="GIF"/>
+<br />
+<span>
+Hello! I'm a Front-end and Unity Developer👾 I speak Spanish, English and some French!🌎
+</span>
+
 <!-- Description -->
 
 <br />
@@ -37,6 +40,8 @@ Hello! I'm a Front-end and Unity Developer👾 I speak Spanish, English and some
 - 🚀 I’m currently learning some Python and Back-end Development
 - 💬 You can ask me about anything
 - 🎶 I'm a music enthusiast! Love to create playlists and discover new music
+
+<img src="https://media.giphy.com/media/9PwWklO9tSELtIhBka/giphy.gif" width="250" height="190" align="right" alt="capoo-gif"/>
 
 <br />
 
@@ -66,9 +71,10 @@ Hello! I'm a Front-end and Unity Developer👾 I speak Spanish, English and some
 <br />
 <br />
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vivavv&count_private=true&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://i.imgur.com/okHmU2N.gif" width="230" height="170" align="right"/>
+<img src="https://i.imgur.com/okHmU2N.gif" width="230" height="170" alt="capoo-gif-2" align="right"/>
 
 <br />
+
 <!--START_SECTION:waka-->
 
 ```text
@@ -77,6 +83,7 @@ No Activity tracked this Week
 
 <!--END_SECTION:waka-->
 
+<br />
 <p align="center">
-  <img width="400" height="203" src="https://pa1.narvii.com/6649/750dc3b830727911dc40f017c8929f2b225917fa_hq.gif">
+  <img width="400" height="203" alt="bt21-gif" src="https://pa1.narvii.com/6649/750dc3b830727911dc40f017c8929f2b225917fa_hq.gif">
 </p>
