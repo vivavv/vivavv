@@ -2,36 +2,34 @@
 
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Viviana!
 
+<!-- Buttons -->
+<a href="https://www.linkedin.com/in/vivianavrc/">
+  <img align="left" alt="LinkedIn" title="LinkedIn" height="28" width="28" src="https://image.flaticon.com/icons/svg/174/174857.svg">
+</a>
+<a link=mailto:vivianavrc27@gmail.com>
+ <img align="left" alt="Gmail" title="Gmail" height="28" width="28" src="https://image.flaticon.com/icons/svg/2991/2991144.svg">
+</a>
+<a href="https://twitter.com/ViviRod27">
+ <img align="left" alt="Twitter" title="Twitter" height="28" width="28" src="https://image.flaticon.com/icons/svg/174/174876.svg">
+</a>
+<a href="https://t.me/vivavv">
+ <img align="left" alt="Telegram" title="Telegram" height="28" width="28" src="https://img.icons8.com/fluent/2x/telegram-app.png">
+</a>
+<a href="https://open.spotify.com/user/vivavv">
+ <img align="left" alt="Spotify" title="Spotify" height="28" width="28" src="https://image.flaticon.com/icons/svg/1946/1946479.svg">
+</a>
+<a href="https://www.deezer.com/es/profile/2164992848">
+ <img align="left" alt="Deezer" title="Deezer" height="28" width="28" src="https://img.icons8.com/color/2x/deezer.png">
+</a>
+
 Hello! I'm a Front-end and Unity Developer👾 I speak Spanish, English and some French!🌎
 <br />
 
-<!-- Buttons -->
-<a href="https://www.linkedin.com/in/vivianavrc/">
-  <img alt="LinkedIn" title="LinkedIn" height="28" width="28" src="https://image.flaticon.com/icons/svg/174/174857.svg">
-</a>
-<a link=mailto:vivianavrc27@gmail.com>
- <img alt="Gmail" title="Gmail" height="28" width="28" src="https://image.flaticon.com/icons/svg/2991/2991144.svg">
-</a>
-<a href="https://twitter.com/ViviRod27">
- <img alt="Twitter" title="Twitter" height="28" width="28" src="https://image.flaticon.com/icons/svg/174/174876.svg">
-</a>
-<a href="https://t.me/vivavv">
- <img alt="Telegram" title="Telegram" height="28" width="28" src="https://img.icons8.com/fluent/2x/telegram-app.png">
-</a>
-<a href="https://open.spotify.com/user/vivavv">
- <img alt="Spotify" title="Spotify" height="28" width="28" src="https://image.flaticon.com/icons/svg/1946/1946479.svg">
-</a>
-<a href="https://www.deezer.com/es/profile/2164992848">
- <img alt="Deezer" title="Deezer" height="28" width="28" src="https://img.icons8.com/color/2x/deezer.png">
-</a>
-
-[![Twitter Badge](https://img.shields.io/badge/-@ViviRod27-1ca0f1??style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ViviRod27)](https://twitter.com/ViviRod27)
-[![Linkedin Badge](https://img.shields.io/badge/-vivianavrc-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vivianavrc/)](https://www.linkedin.com/in/vivianavrc/)
-[![Gmail Badge](https://img.shields.io/badge/-vivianavrc27@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vivianavrc27@gmail.com)](mailto:vivianavrc27@gmail.com)
-[![Telegram Badge](https://img.shields.io/badge/-vivavv-black?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/vivavv)](https://t.me/vivavv)
-
-<img src="https://media.giphy.com/media/9PwWklO9tSELtIhBka/giphy.gif" width="250" height="190" align="right"/>
+<img src="https://media.giphy.com/media/9PwWklO9tSELtIhBka/giphy.gif" width="250" height="190" align="right" alt="GIF"/>
 <!-- Description -->
+
+**About me:**
+
 - 👩🏻‍💻 I’m currently working with Javascript, React, Vue.js and Unity
 - 🚀 I’m currently learning some Python and Back-end Development
 - 💬 You can ask me about anything
@@ -55,13 +53,12 @@ Hello! I'm a Front-end and Unity Developer👾 I speak Spanish, English and some
 <code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" alt="git"></code>
 <code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-line.svg" alt="photoshop"></code>
 
-<img src="https://i.imgur.com/okHmU2N.gif" width="250" height="190" align="right"/>
-
 <!-- Stats -->
 
-**My GitHub Stats**  
+**My GitHub Stats: **  
 <br />
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vivavv&count_private=true&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://i.imgur.com/okHmU2N.gif" width="200" height="170" align="right"/>
 
 <!--START_SECTION:waka-->
 
@@ -70,3 +67,7 @@ No Activity tracked this Week
 ```
 
 <!--END_SECTION:waka-->
+
+<p align="center">
+  <img width="400" height="180" src="http://d.line-cdn.net/lf/picimg/content/20180130/11.gif">
+</p>
