@@ -4,35 +4,39 @@
 
 <br/>
 <!-- Buttons -->
+<span>
 <a href="https://www.linkedin.com/in/vivianavrc/">
-  <img align="left" alt="LinkedIn" title="LinkedIn" height="28" width="28" src="https://image.flaticon.com/icons/svg/174/174857.svg">
+  <img alt="LinkedIn" title="LinkedIn" height="25" width="25" src="https://image.flaticon.com/icons/svg/174/174857.svg">
 </a>
 <a link=mailto:vivianavrc27@gmail.com>
- <img align="left" alt="Gmail" title="Gmail" height="28" width="28" src="https://image.flaticon.com/icons/svg/2991/2991144.svg">
+ <img alt="Gmail" title="Gmail" height="25" width="25" src="https://image.flaticon.com/icons/svg/2991/2991144.svg">
 </a>
 <a href="https://twitter.com/ViviRod27">
- <img align="left" alt="Twitter" title="Twitter" height="28" width="28" src="https://image.flaticon.com/icons/svg/174/174876.svg">
+ <img alt="Twitter" title="Twitter" height="25" width="25" src="https://image.flaticon.com/icons/svg/174/174876.svg">
 </a>
 <a href="https://t.me/vivavv">
- <img align="left" alt="Telegram" title="Telegram" height="28" width="28" src="https://img.icons8.com/fluent/2x/telegram-app.png">
+ <img alt="Telegram" title="Telegram" height="25" width="25" src="https://img.icons8.com/fluent/2x/telegram-app.png">
 </a>
 <a href="https://open.spotify.com/user/vivavv">
- <img align="left" alt="Spotify" title="Spotify" height="28" width="28" src="https://image.flaticon.com/icons/svg/1946/1946479.svg">
+ <img alt="Spotify" title="Spotify" height="25" width="25" src="https://image.flaticon.com/icons/svg/1946/1946479.svg">
 </a>
 <a href="https://www.deezer.com/es/profile/2164992848">
- <img align="left" alt="Deezer" title="Deezer" height="28" width="28" src="https://img.icons8.com/color/2x/deezer.png">
+ <img alt="Deezer" title="Deezer" height="25" width="25" src="https://img.icons8.com/color/2x/deezer.png">
 </a>
+</span>
 
 ![](https://komarev.com/ghpvc/?username=vivavv&color=blueviolet&label=views)
+
 
 <br />
 <span>
 Hello! I'm a Front-end and Unity Developer👾 I speak Spanish, English and some French!🌎
 </span>
+<br />
 
 <!-- Description -->
 
-<br />
+<img src="https://media.giphy.com/media/9PwWklO9tSELtIhBka/giphy.gif" width="250" height="190" align="right" alt="capoo-gif"/>
 
 **About me:**
 
@@ -40,8 +44,6 @@ Hello! I'm a Front-end and Unity Developer👾 I speak Spanish, English and some
 - 🚀 I’m currently learning some Python and Back-end Development
 - 💬 You can ask me about anything
 - 🎶 I'm a music enthusiast! Love to create playlists and discover new music
-
-<img src="https://media.giphy.com/media/9PwWklO9tSELtIhBka/giphy.gif" width="250" height="190" align="right" alt="capoo-gif"/>
 
 <br />
 
