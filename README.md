@@ -27,6 +27,7 @@
 
 ![](https://komarev.com/ghpvc/?username=vivavv&color=blueviolet&label=views)
 
+<br/>
 <span>
 Hello! I'm a Front-end and Unity Developer👾 I speak Spanish, English and some French!🌎
 </span>
