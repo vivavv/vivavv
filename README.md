@@ -26,15 +26,16 @@
 </span>
 
 <br />
-<div>
+<br />
+<span>
 Hello! I'm a Front-end and Unity Developer👾 I speak Spanish, English and some French!🌎
-</div>
+</span>
 
 <!-- Description -->
 
-### About me:
-
 <img src="https://media.giphy.com/media/9PwWklO9tSELtIhBka/giphy.gif" width="250" height="190" align="right" alt="capoo-gif"/>
+
+### About me:
 
 - 👩🏻‍💻 I’m currently working with Javascript, React, Vue.js and Unity
 - 🚀 I’m currently learning some Python and Back-end Development
@@ -62,12 +63,10 @@ Hello! I'm a Front-end and Unity Developer👾 I speak Spanish, English and some
 <code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-line.svg" alt="photoshop"></code>
 
 <br />
-
+<br />
 <!-- Stats -->
 
 ### My GitHub Stats:
-
-<br />
 
 <img src="https://i.imgur.com/okHmU2N.gif" width="230" height="170" alt="capoo-gif-2" align="right"/>
 
