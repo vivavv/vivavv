@@ -1,6 +1,6 @@
 <!--**vivavv/vivavv** -->
 
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Viviana!
+## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Viviana!
 
 <br/>
 <!-- Buttons -->
@@ -8,7 +8,7 @@
 <a href="https://www.linkedin.com/in/vivianavrc/">
   <img align="left" alt="LinkedIn" title="LinkedIn" height="25" width="25" src="https://image.flaticon.com/icons/svg/174/174857.svg">
 </a>
-<a link=mailto:vivianavrc27@gmail.com>
+<a link="mailto:vivianavrc27@gmail.com">
  <img align="left" alt="Gmail" title="Gmail" height="25" width="25" src="https://image.flaticon.com/icons/svg/2991/2991144.svg">
 </a>
 <a href="https://twitter.com/ViviRod27">
@@ -25,18 +25,16 @@
 </a>
 </span>
 
-![](https://komarev.com/ghpvc/?username=vivavv&color=blueviolet&label=views)
 
-<br/>
 <span>
 Hello! I'm a Front-end and Unity Developer👾 I speak Spanish, English and some French!🌎
 </span>
 
-<!-- Description -->
-
 <img src="https://media.giphy.com/media/9PwWklO9tSELtIhBka/giphy.gif" width="250" height="190" align="right" alt="capoo-gif"/>
 
-**About me:**
+<!-- Description -->
+
+### About me:
 
 - 👩🏻‍💻 I’m currently working with Javascript, React, Vue.js and Unity
 - 🚀 I’m currently learning some Python and Back-end Development
@@ -45,9 +43,10 @@ Hello! I'm a Front-end and Unity Developer👾 I speak Spanish, English and some
 
 <br />
 
+<br />
 <!-- Languages and Tools -->
 
-**Languages and Tools:**  
+### Languages and Tools:
 <br />
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -67,7 +66,7 @@ Hello! I'm a Front-end and Unity Developer👾 I speak Spanish, English and some
 
 <!-- Stats -->
 
-**My GitHub Stats:**
+### My GitHub Stats:**
 <br />
 <br />
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vivavv&count_private=true&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
@@ -75,18 +74,21 @@ Hello! I'm a Front-end and Unity Developer👾 I speak Spanish, English and some
 
 <br />
 
-**Weekly Stats:**
+### Weekly Stats:
+
 <!--START_SECTION:waka-->
+
 ```text
-Markdown     1 hr 12 mins    ███████████░░░░░░░░░░░░░░   44.60 % 
-JavaScript   48 mins         ███████▒░░░░░░░░░░░░░░░░░   29.92 % 
-JSON         26 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
-Other        12 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
-Text         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+Markdown     1 hr 12 mins    ███████████░░░░░░░░░░░░░░   44.60 %
+JavaScript   48 mins         ███████▒░░░░░░░░░░░░░░░░░   29.92 %
+JSON         26 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.18 %
+Other        12 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 %
+Text         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
 ```
+
 <!--END_SECTION:waka-->
 
 <br />
 <p align="center">
-  <img width="400" height="183" alt="bt21-gif" src="https://pa1.narvii.com/6649/750dc3b830727911dc40f017c8929f2b225917fa_hq.gif">
+  <img width="340" height="183" alt="bt21-gif" src="https://pa1.narvii.com/6649/750dc3b830727911dc40f017c8929f2b225917fa_hq.gif">
 </p>
