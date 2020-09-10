@@ -25,16 +25,16 @@
 </a>
 </span>
 
-<br/>
-<span>
+<br />
+<div>
 Hello! I'm a Front-end and Unity Developer👾 I speak Spanish, English and some French!🌎
-</span>
-
-<img src="https://media.giphy.com/media/9PwWklO9tSELtIhBka/giphy.gif" width="250" height="190" align="right" alt="capoo-gif"/>
+</div>
 
 <!-- Description -->
 
 ### About me:
+
+<img src="https://media.giphy.com/media/9PwWklO9tSELtIhBka/giphy.gif" width="250" height="190" align="right" alt="capoo-gif"/>
 
 - 👩🏻‍💻 I’m currently working with Javascript, React, Vue.js and Unity
 - 🚀 I’m currently learning some Python and Back-end Development
@@ -45,6 +45,7 @@ Hello! I'm a Front-end and Unity Developer👾 I speak Spanish, English and some
 <!-- Languages and Tools -->
 
 ### Languages and Tools:
+
 <br />
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -63,10 +64,12 @@ Hello! I'm a Front-end and Unity Developer👾 I speak Spanish, English and some
 <br />
 
 <!-- Stats -->
-<img src="https://i.imgur.com/okHmU2N.gif" width="230" height="170" alt="capoo-gif-2" align="right"/>
 
 ### My GitHub Stats:
+
 <br />
+
+<img src="https://i.imgur.com/okHmU2N.gif" width="230" height="170" alt="capoo-gif-2" align="right"/>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vivavv&count_private=true&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
