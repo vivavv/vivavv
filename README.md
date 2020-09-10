@@ -25,7 +25,7 @@
 </a>
 </span>
 
-
+<br/>
 <span>
 Hello! I'm a Front-end and Unity Developer👾 I speak Spanish, English and some French!🌎
 </span>
@@ -40,8 +40,6 @@ Hello! I'm a Front-end and Unity Developer👾 I speak Spanish, English and some
 - 🚀 I’m currently learning some Python and Back-end Development
 - 💬 You can ask me about anything
 - 🎶 I'm a music enthusiast! Love to create playlists and discover new music
-
-<br />
 
 <br />
 <!-- Languages and Tools -->
@@ -65,13 +63,12 @@ Hello! I'm a Front-end and Unity Developer👾 I speak Spanish, English and some
 <br />
 
 <!-- Stats -->
+<img src="https://i.imgur.com/okHmU2N.gif" width="230" height="170" alt="capoo-gif-2" align="right"/>
 
 ### My GitHub Stats:
 <br />
-<br />
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vivavv&count_private=true&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://i.imgur.com/okHmU2N.gif" width="230" height="170" alt="capoo-gif-2" align="right"/>
 
 <br />
 
