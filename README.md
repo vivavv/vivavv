@@ -8,7 +8,7 @@
 <a href="https://www.linkedin.com/in/vivianavrc/">
   <img align="left" alt="LinkedIn" title="LinkedIn" height="25" width="25" src="https://image.flaticon.com/icons/svg/174/174857.svg">
 </a>
-<a link="mailto:vivianavrc27@gmail.com">
+<a href="mailto:vivianavrc27@gmail.com">
  <img align="left" alt="Gmail" title="Gmail" height="25" width="25" src="https://image.flaticon.com/icons/svg/2991/2991144.svg">
 </a>
 <a href="https://twitter.com/ViviRod27">
@@ -66,9 +66,10 @@ Hello! I'm a Front-end and Unity Developer👾 I speak Spanish, English and some
 
 <!-- Stats -->
 
-### My GitHub Stats:**
+### My GitHub Stats:
 <br />
 <br />
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vivavv&count_private=true&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://i.imgur.com/okHmU2N.gif" width="230" height="170" alt="capoo-gif-2" align="right"/>
 
