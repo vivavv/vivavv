@@ -15,20 +15,18 @@
  <img align="left" alt="Twitter" title="Twitter" height="25" width="25" src="https://image.flaticon.com/icons/svg/174/174876.svg">
 </a>
 <a href="https://t.me/vivavv">
- <img align="left" alt="Telegram" title="Telegram" height="28" width="28" src="https://img.icons8.com/fluent/2x/telegram-app.png">
+ <img align="left" alt="Telegram" title="Telegram" height="25" width="25" src="https://www.flaticon.es/svg/static/icons/svg/906/906377.svg">
 </a>
 <a href="https://open.spotify.com/user/vivavv">
  <img align="left" alt="Spotify" title="Spotify" height="25" width="25" src="https://image.flaticon.com/icons/svg/1946/1946479.svg">
 </a>
 <a href="https://www.deezer.com/es/profile/2164992848">
- <img align="left" alt="Deezer" title="Deezer" height="25" width="25" src="https://img.icons8.com/color/2x/deezer.png">
+ <img align="left" alt="Deezer" title="Deezer" height="25" width="25" src="https://www.flaticon.es/svg/static/icons/svg/49/49383.svg">
 </a>
 </span>
 
 ![](https://komarev.com/ghpvc/?username=vivavv&color=blueviolet&label=views)
 
-<br />
-<br />
 <br />
 <span>
 Hello! I'm a Front-end and Unity Developer👾 I speak Spanish, English and some French!🌎
