@@ -39,7 +39,7 @@ Hello! I'm a Front-end and Unity Developer👾 I speak Spanish, English and some
 
 <img src="https://media.giphy.com/media/9PwWklO9tSELtIhBka/giphy.gif" width="250" height="190" align="right" alt="capoo-gif"/>
 
-- 👩🏻‍💻 I’m currently working with Javascript, React, Vue.js and Unity
+- 👩🏻‍💻 I’m currently working with Javascript and React
 - 🚀 I’m currently learning some Python and Back-end Development
 - 💬 You can ask me about anything
 - 🎶 I'm a music enthusiast! Love to create playlists and discover new music
