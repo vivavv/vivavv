@@ -63,7 +63,7 @@ Hello! I'm a Front-end and Unity Developer👾 I speak Spanish, English and some
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql"></code>
 <code><img height="40" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="mssql"></code>
 <code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" alt="git"></code>
-<code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-line.svg" alt="photoshop"></code>
+<code><img height="45" src="https://img.icons8.com/color/48/000000/adobe-photoshop.png" alt="photoshop"></code>
 
 <br />
 <br />
