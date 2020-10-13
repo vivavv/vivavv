@@ -5,7 +5,7 @@
 <br/>
 <!-- Buttons -->
 <a href="https://vivavv.netlify.app/">
-  <img align="left" alt="Portfolio" title="Portfolio" height="30" width="30" src="https://img.icons8.com/bubbles/100/000000/domain.png">
+  <img align="left" alt="Portfolio" title="Portfolio" height="25" width="25" src="https://www.flaticon.com/svg/static/icons/svg/1034/1034507.svg">
 </a>
 <a href="https://www.linkedin.com/in/vivianavrc/">
   <img align="left" alt="LinkedIn" title="LinkedIn" height="25" width="25" src="https://image.flaticon.com/icons/svg/174/174857.svg">
