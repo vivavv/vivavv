@@ -4,7 +4,9 @@
 
 <br/>
 <!-- Buttons -->
-<span>
+
+  <img align="left" alt="Portfolio" title="Portfolio" height="30" width="30" src="https://img.icons8.com/bubbles/100/000000/domain.png">
+</a>
 <a href="https://www.linkedin.com/in/vivianavrc/">
   <img align="left" alt="LinkedIn" title="LinkedIn" height="25" width="25" src="https://image.flaticon.com/icons/svg/174/174857.svg">
 </a>
@@ -39,7 +41,7 @@ Hello! I'm a Front-end and Unity Developer👾 I speak Spanish, English and some
 
 <img src="https://media.giphy.com/media/9PwWklO9tSELtIhBka/giphy.gif" width="250" height="190" align="right" alt="capoo-gif"/>
 
-- 👩🏻‍💻 I’m currently working with Javascript and React
+- 👩🏻‍💻 I’m currently working with Javascript and Vue.js!
 - 🚀 I’m currently learning some Python and Back-end Development
 - 💬 You can ask me about anything
 - 🎶 I'm a music enthusiast! Love to create playlists and discover new music
