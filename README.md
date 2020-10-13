@@ -4,25 +4,25 @@
 
 <br/>
 <!-- Buttons -->
-<a href="https://vivavv.netlify.app/">
+<a href="https://vivavv.netlify.app/" target="_blank" >
   <img align="left" alt="Portfolio" title="Portfolio" height="25" width="25" src="https://www.flaticon.com/svg/static/icons/svg/1034/1034507.svg">
 </a>
-<a href="https://www.linkedin.com/in/vivianavrc/">
+<a href="https://www.linkedin.com/in/vivianavrc/" target="_blank" >
   <img align="left" alt="LinkedIn" title="LinkedIn" height="25" width="25" src="https://image.flaticon.com/icons/svg/174/174857.svg">
 </a>
-<a href="mailto:vivianavrc27@gmail.com">
+<a href="mailto:vivianavrc27@gmail.com" target="_blank" >
  <img align="left" alt="Gmail" title="Gmail" height="25" width="25" src="https://image.flaticon.com/icons/svg/2991/2991144.svg">
 </a>
-<a href="https://twitter.com/ViviRod27">
+<a href="https://twitter.com/ViviRod27" target="_blank" >
  <img align="left" alt="Twitter" title="Twitter" height="25" width="25" src="https://image.flaticon.com/icons/svg/174/174876.svg">
 </a>
-<a href="https://t.me/vivavv">
+<a href="https://t.me/vivavv" target="_blank" >
  <img align="left" alt="Telegram" title="Telegram" height="25" width="25" src="https://www.flaticon.es/svg/static/icons/svg/906/906377.svg">
 </a>
-<a href="https://open.spotify.com/user/vivavv">
+<a href="https://open.spotify.com/user/vivavv" target="_blank" >
  <img align="left" alt="Spotify" title="Spotify" height="25" width="25" src="https://image.flaticon.com/icons/svg/1946/1946479.svg">
 </a>
-<a href="https://www.deezer.com/es/profile/2164992848">
+<a href="https://www.deezer.com/es/profile/2164992848" target="_blank" >
  <img align="left" alt="Deezer" title="Deezer" height="25" width="25" src="https://www.flaticon.es/svg/static/icons/svg/49/49383.svg">
 </a>
 </span>
