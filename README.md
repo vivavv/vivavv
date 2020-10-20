@@ -1,6 +1,6 @@
 <!--**vivavv/vivavv** -->
 
-## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Viviana!
+## Hi there <img src="images/hi.gif" width="25px"> I'm Viviana!
 
 <br/>
 <!-- Buttons -->
@@ -36,15 +36,14 @@ Hello! I'm a Front-end and Unity Developer👾 I speak Spanish, English and some
 
 <!-- Description -->
 
-
 ### About me:
 
-<img src="https://media.giphy.com/media/9PwWklO9tSELtIhBka/giphy.gif" width="250" height="190" align="right" alt="capoo-gif"/>
+<img src="images/capoo-work.gif" width="250" height="190" align="right" alt="capoo-work-gif"/>
 
 - 👩🏻‍💻 I’m currently working with Javascript and Vue.js!
 - 🚀 I’m currently learning some Python and Back-end Development
 - 💬 You can ask me about anything
-- 🎶 I'm a music enthusiast! Love to create playlists and discover new music
+- 🎶 I'm a music enthusiast! Love to create playlists and discover new music :)
 
 <br />
 <!-- Languages and Tools -->
@@ -75,7 +74,7 @@ Hello! I'm a Front-end and Unity Developer👾 I speak Spanish, English and some
 
 ### My GitHub Stats:
 
-<img src="https://i.imgur.com/okHmU2N.gif" width="230" height="170" alt="capoo-gif-2" align="right"/>
+<img src="images/capoo-error.gif" width="230" height="170" alt="capoo-error-gif" align="right"/>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vivavv&count_private=true&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -84,35 +83,34 @@ Hello! I'm a Front-end and Unity Developer👾 I speak Spanish, English and some
 ### Weekly Stats:
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
+
+**I'm an Early 🐤**
 
 ```text
-🌞 Morning    111 commits    █████████░░░░░░░░░░░░░░░░   36.63% 
-🌆 Daytime    123 commits    ██████████░░░░░░░░░░░░░░░   40.59% 
-🌃 Evening    67 commits     █████░░░░░░░░░░░░░░░░░░░░   22.11% 
+🌞 Morning    111 commits    █████████░░░░░░░░░░░░░░░░   36.63%
+🌆 Daytime    123 commits    ██████████░░░░░░░░░░░░░░░   40.59%
+🌃 Evening    67 commits     █████░░░░░░░░░░░░░░░░░░░░   22.11%
 🌙 Night      2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.66%
 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 ⌚︎ Time Zone: America/Toronto
 
-💬 Programming Languages: 
-Vue.js                   2 hrs 4 mins        ████████████░░░░░░░░░░░░░   51.37% 
-C#                       1 hr                ██████░░░░░░░░░░░░░░░░░░░   24.95% 
-HTML                     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.04% 
-SCSS                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.87% 
+💬 Programming Languages:
+Vue.js                   2 hrs 4 mins        ████████████░░░░░░░░░░░░░   51.37%
+C#                       1 hr                ██████░░░░░░░░░░░░░░░░░░░   24.95%
+HTML                     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.04%
+SCSS                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.87%
 Other                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.86%
 
 ```
-
 
 <!--END_SECTION:waka-->
 
 <br />
 <p align="center">
-  <img width="340" height="183" alt="bt21-gif" src="https://pa1.narvii.com/6649/750dc3b830727911dc40f017c8929f2b225917fa_hq.gif">
+  <img width="340" height="183" alt="bt21-gif" src="images/bt21-go-go.gif">
 </p>
