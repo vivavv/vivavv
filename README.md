@@ -66,6 +66,7 @@ Hello! I'm a Front-end and Unity Developer👾 I speak Spanish, English and some
 <code><img height="40" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="mssql"></code>
 <code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" alt="git"></code>
 <code><img height="45" src="https://img.icons8.com/color/48/000000/adobe-photoshop.png" alt="photoshop"></code>
+<code><img height="45" src="https://img.icons8.com/color/48/000000/adobe-xd.png" alt="xd"></code>
 
 <br />
 <br />
