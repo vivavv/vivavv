@@ -100,7 +100,7 @@ Hello! I'm a Front-end and Unity Developer👾 I speak Spanish, English and some
 ⌚︎ Time Zone: America/Toronto
 
 💬 Programming Languages: 
-Vue.js                   4 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
