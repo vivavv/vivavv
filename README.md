@@ -5,25 +5,25 @@
 <br/>
 <!-- Buttons -->
 <a href="https://vivavv.netlify.app/">
-  <img align="left" alt="Portfolio" title="Portfolio" height="25" width="25" src="https://www.flaticon.com/svg/static/icons/svg/1034/1034507.svg">
+  <img align="left" alt="Portfolio" title="Portfolio" height="25" width="25" src="images/portfolio-img.svg">
 </a>
 <a href="https://www.linkedin.com/in/vivianavrc/">
-  <img align="left" alt="LinkedIn" title="LinkedIn" height="25" width="25" src="https://image.flaticon.com/icons/svg/174/174857.svg">
+  <img align="left" alt="LinkedIn" title="LinkedIn" height="25" width="25" src="images/linkedn-img.svg">
 </a>
 <a href="mailto:vivianavrc27@gmail.com">
- <img align="left" alt="Gmail" title="Gmail" height="25" width="25" src="https://image.flaticon.com/icons/svg/2991/2991144.svg">
+ <img align="left" alt="Gmail" title="Gmail" height="25" width="25" src="images/gmail-img.svg">
 </a>
 <a href="https://twitter.com/ViviRod27">
- <img align="left" alt="Twitter" title="Twitter" height="25" width="25" src="https://image.flaticon.com/icons/svg/174/174876.svg">
+ <img align="left" alt="Twitter" title="Twitter" height="25" width="25" src="images/twitter-img.svg">
 </a>
 <a href="https://t.me/vivavv">
- <img align="left" alt="Telegram" title="Telegram" height="25" width="25" src="https://www.flaticon.es/svg/static/icons/svg/906/906377.svg">
+ <img align="left" alt="Telegram" title="Telegram" height="25" width="25" ssrc="images/telegram-img.svg">
 </a>
 <a href="https://open.spotify.com/user/vivavv">
- <img align="left" alt="Spotify" title="Spotify" height="25" width="25" src="https://image.flaticon.com/icons/svg/1946/1946479.svg">
+ <img align="left" alt="Spotify" title="Spotify" height="25" width="25" src="images/spotify.svg">
 </a>
 <a href="https://www.deezer.com/es/profile/2164992848">
- <img align="left" alt="Deezer" title="Deezer" height="25" width="25" src="https://www.flaticon.es/svg/static/icons/svg/49/49383.svg">
+ <img align="left" alt="Deezer" title="Deezer" height="25" width="25" src="images/deezer-img.svg">
 </a>
 </span>
 
@@ -31,7 +31,7 @@
 
 <br />
 <span>
-Hello! I'm a Front-end and Unity Developer👾 I speak Spanish, English and some French!🌎
+Hello! I'm a Web Developer, I work mostly with Front-end and UX/UI Design👾 I speak Spanish, English and some French!🌎
 </span>
 
 <!-- Description -->
@@ -41,9 +41,11 @@ Hello! I'm a Front-end and Unity Developer👾 I speak Spanish, English and some
 <img src="images/capoo-work.gif" width="250" height="190" align="right" alt="capoo-work-gif"/>
 
 - 👩🏻‍💻 I’m currently working with Javascript and Vue.js!
-- 🚀 I’m currently learning some Python and Back-end Development
-- 💬 You can ask me about anything
+- 🚀 I’m currently learning more about design and animations
+- 🔎 I want to learn more about Python and Back-end development
+- ⭐️ I really love colors!
 - 🎶 I'm a music enthusiast! Love to create playlists and discover new music :)
+- 💬 You can ask me about anything
 
 <br />
 <!-- Languages and Tools -->
@@ -51,21 +53,28 @@ Hello! I'm a Front-end and Unity Developer👾 I speak Spanish, English and some
 ### Languages and Tools:
 
 <br />
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"></code>
-<code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
-<code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="node"></code>
-<code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original.svg" alt="expressjs"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql"></code>
-<code><img height="40" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="mssql"></code>
-<code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" alt="git"></code>
-<code><img height="45" src="https://img.icons8.com/color/48/000000/adobe-photoshop.png" alt="photoshop"></code>
-<code><img height="45" src="https://img.icons8.com/color/48/000000/adobe-xd.png" alt="xd"></code>
+<code><img height="40" src="images/javascript-icon.png" alt="javascript"></code>
+<code><img height="40" src="images/react-icon.png" alt="react"></code>
+<code><img height="40" src="images/vue-icon.png" alt="vue"></code>
+<code><img height="40" src="images/html-icon.png" alt="html"></code>
+<code><img height="40" src="images/css-icon.png" alt="css"></code>
+<code><img height="40" src="images/sass-icon.png" alt="sass"></code>
+<code><img height="40" src="images/unity-icon.png" alt="unity"></code>
+<code><img height="40" src="images/c-sharp-icon.png" alt="csharp"></code>
+<br />
+<code><img height="40" src="images/git-icon.svg" alt="git"></code>
+<code><img height="40" src="images/bitbucket-icon.svg" alt="bitbucket"></code>
+<code><img height="45" src="images/adobe-photoshop-icon.png" alt="photoshop"></code>
+<code><img height="45" src="images/adobe-xd-icon.png" alt="xd"></code>
+<code><img height="45" src="images/sketch-icon.png" alt="xd"></code>
+<code><img height="45" src="images/figma-icon.png" alt="xd"></code>
+<br />
+<code><img height="40" src="images/nodejs-icon.svg" alt="node"></code>
+<code><img height="40" src="images/express-icon.svg" alt="expressjs"></code>
+<code><img height="40" src="images/graphql-icon.svg" alt="node"></code>
+<code><img height="40" src="images/apollo-icon.svg" alt="node"></code>
+<code><img height="40" src="images/mysql-icon.png" alt="mysql"></code>
+<code><img height="40" src="images/sql-server-icon.png" alt="mssql"></code>
 
 <br />
 <br />
@@ -116,3 +125,6 @@ Markdown                 10 mins             ░░░░░░░░░░░�
 <p align="center">
   <img width="340" height="183" alt="bt21-gif" src="images/bt21-go-go.gif">
 </p>
+
+### Current Work:
+- 📣 For the past year I've been working in private repositories in Bitbucket, if you wanna know more about my current work you can contact me :)
