@@ -44,7 +44,7 @@ Hello! I'm a Web Developer, I work mostly with Front-end and UX/UI Design👾 I 
 - 🚀 I’m currently learning more about design and animations
 - 🔎 I want to learn more about Python and Back-end development
 - ⭐️ I really love colors!
-- 🎶 I'm a music enthusiast! Love to listen and discover new music :)
+- 🎶 I'm a music enthusiast! Love to listen to and discover new music :)
 - 💬 You can ask me about anything
 
 <br />
