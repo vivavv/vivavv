@@ -17,10 +17,10 @@
  <img align="left" alt="Twitter" title="Twitter" height="25" width="25" src="images/twitter-img.svg">
 </a>
 <a href="https://t.me/vivavv">
- <img align="left" alt="Telegram" title="Telegram" height="25" width="25" ssrc="images/telegram-img.svg">
+ <img align="left" alt="Telegram" title="Telegram" height="25" width="25" src="images/telegram-img.svg">
 </a>
 <a href="https://open.spotify.com/user/vivavv">
- <img align="left" alt="Spotify" title="Spotify" height="25" width="25" src="images/spotify.svg">
+ <img align="left" alt="Spotify" title="Spotify" height="25" width="25" src="images/spotify-img.svg">
 </a>
 <a href="https://www.deezer.com/es/profile/2164992848">
  <img align="left" alt="Deezer" title="Deezer" height="25" width="25" src="images/deezer-img.svg">
@@ -60,17 +60,17 @@ Hello! I'm a Web Developer, I work mostly with Front-end and UX/UI Design👾 I 
 <code><img height="40" src="images/css-icon.png" alt="css"></code>
 <code><img height="40" src="images/sass-icon.png" alt="sass"></code>
 <code><img height="40" src="images/unity-icon.png" alt="unity"></code>
-<code><img height="40" src="images/c-sharp-icon.png" alt="csharp"></code>
+<code><img height="40" src="images/c-ssharp-icon.png" alt="csharp"></code>
 <br />
 <code><img height="40" src="images/git-icon.svg" alt="git"></code>
-<code><img height="40" src="images/bitbucket-icon.svg" alt="bitbucket"></code>
+<code><img height="35" src="images/bitbucket-icon.svg" alt="bitbucket"></code>
 <code><img height="45" src="images/adobe-photoshop-icon.png" alt="photoshop"></code>
 <code><img height="45" src="images/adobe-xd-icon.png" alt="xd"></code>
-<code><img height="45" src="images/sketch-icon.png" alt="xd"></code>
-<code><img height="45" src="images/figma-icon.png" alt="xd"></code>
+<code><img height="40" src="images/sketch-icon.png" alt="xd"></code>
+<code><img height="40" src="images/figma-icon.png" alt="xd"></code>
 <br />
 <code><img height="40" src="images/nodejs-icon.svg" alt="node"></code>
-<code><img height="40" src="images/express-icon.svg" alt="expressjs"></code>
+<code><img height="40" src="images/expressjs-icon.svg" alt="expressjs"></code>
 <code><img height="40" src="images/graphql-icon.svg" alt="node"></code>
 <code><img height="40" src="images/apollo-icon.svg" alt="node"></code>
 <code><img height="40" src="images/mysql-icon.png" alt="mysql"></code>
