@@ -130,4 +130,4 @@ Windows                  14 hrs 8 mins       ███████████�
 </p>
 
 ### Current Work:
-- 📣 For the past year I've been working with private repositories in Bitbucket, if you wanna know more about my current work you can contact me :)
+- 📣 For the past year I've been working on private repositories in Bitbucket, if you wanna know more about my current work you can contact me :)
