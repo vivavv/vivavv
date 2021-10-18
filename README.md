@@ -59,9 +59,10 @@ Hello! I'm a Web Developer, I work mostly with Front-end and UX/UI Design👾 I 
 <code><img height="40" src="images/html-icon.png" alt="html"></code>
 <code><img height="40" src="images/css-icon.png" alt="css"></code>
 <code><img height="40" src="images/sass-icon.png" alt="sass"></code>
+<code><img height="40" src="images/flutter-icon.svg" alt="flutter"></code>
+<br />
 <code><img height="40" src="images/unity-icon.svg" alt="unity"></code>
 <code><img height="40" src="images/c-sharp-icon.png" alt="csharp"></code>
-<br />
 <code><img height="40" src="images/git-icon.svg" alt="git"></code>
 <code><img height="35" src="images/bitbucket-icon.svg" alt="bitbucket"></code>
 <code><img height="45" src="images/adobe-photoshop-icon.png" alt="photoshop"></code>
