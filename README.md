@@ -67,7 +67,6 @@ Hello! I'm a Web Developer, I work mostly with Front-end and UX/UI Design👾 I 
 <code><img height="35" src="images/bitbucket-icon.svg" alt="bitbucket"></code>
 <code><img height="45" src="images/adobe-photoshop-icon.png" alt="photoshop"></code>
 <code><img height="45" src="images/adobe-xd-icon.png" alt="xd"></code>
-<code><img height="40" src="images/sketch-icon.png" alt="xd"></code>
 <code><img height="40" src="images/figma-icon.png" alt="xd"></code>
 <br />
 <code><img height="40" src="images/nodejs-icon.svg" alt="node"></code>
