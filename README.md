@@ -40,9 +40,9 @@ Hello! I'm a Web Developer, I work mostly with Front-end and UX/UI Design👾 I 
 
 <img src="images/capoo-work.gif" width="250" height="190" align="right" alt="capoo-work-gif"/>
 
-- 👩🏻‍💻 I’m currently working with Javascript and Vue.js!
+- 👩🏻‍💻 I’m currently working with React, Vue (Javascript) and Flutter (Dart)!
 - 🚀 I’m currently learning more about design and animations
-- 🔎 I want to learn more about Python and Back-end development
+- 🔎 I want to learn more about UX design and mobile development
 - ⭐️ I really love colors!
 - 🎶 I'm a music enthusiast! Love to listen to and discover new music :)
 - 💬 You can ask me about anything
@@ -60,6 +60,7 @@ Hello! I'm a Web Developer, I work mostly with Front-end and UX/UI Design👾 I 
 <code><img height="40" src="images/css-icon.png" alt="css"></code>
 <code><img height="40" src="images/sass-icon.png" alt="sass"></code>
 <code><img height="40" src="images/flutter-icon.svg" alt="flutter"></code>
+<code><img height="40" src="images/dartlang-icon.svg" alt="dart"></code>
 <br />
 <code><img height="40" src="images/unity-icon.svg" alt="unity"></code>
 <code><img height="40" src="images/c-sharp-icon.png" alt="csharp"></code>
