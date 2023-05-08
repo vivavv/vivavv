@@ -93,7 +93,7 @@ Hello! I'm a Web Developer, I work mostly with Front-end and UX/UI Design👾 I 
 ### Weekly Stats:
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C463%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C465%20hrs%2019%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -122,7 +122,7 @@ Mac                      18 hrs 2 mins       ███████████�
 ```
 
 
- Last Updated on 07/05/2023 00:53:04 UTC
+ Last Updated on 08/05/2023 00:47:24 UTC
 <!--END_SECTION:waka-->
 
 <br />
