@@ -4,17 +4,11 @@
 
 <br/>
 <!-- Buttons -->
-<a href="https://vivavv.netlify.app/">
-  <img align="left" alt="Portfolio" title="Portfolio" height="25" width="25" src="images/portfolio-img.svg">
-</a>
 <a href="https://www.linkedin.com/in/vivianavrc/">
   <img align="left" alt="LinkedIn" title="LinkedIn" height="25" width="25" src="images/linkedn-img.svg">
 </a>
 <a href="mailto:vivianavrc27@gmail.com">
  <img align="left" alt="Gmail" title="Gmail" height="25" width="25" src="images/gmail-img.svg">
-</a>
-<a href="https://twitter.com/ViviRod27">
- <img align="left" alt="Twitter" title="Twitter" height="25" width="25" src="images/twitter-img.svg">
 </a>
 <a href="https://t.me/vivavv">
  <img align="left" alt="Telegram" title="Telegram" height="25" width="25" src="images/telegram-img.svg">
@@ -22,16 +16,13 @@
 <a href="https://open.spotify.com/user/vivavv">
  <img align="left" alt="Spotify" title="Spotify" height="25" width="25" src="images/spotify-img.svg">
 </a>
-<a href="https://www.deezer.com/es/profile/2164992848">
- <img align="left" alt="Deezer" title="Deezer" height="25" width="25" src="images/deezer-img.svg">
-</a>
 </span>
 
 ![](https://komarev.com/ghpvc/?username=vivavv&color=blueviolet&label=views)
 
 <br />
 <span>
-Hello! I'm a Web Developer, I work mostly with Front-end and UX/UI Design👾 I speak Spanish, English and some French!🌎
+Hello! I'm a Web Developer, I work mostly with Front-end and UX/UI Design👾 <br/> I speak Spanish, English, Portuguese (intermediate) and French (basic)!🌎
 </span>
 
 <!-- Description -->
@@ -40,9 +31,9 @@ Hello! I'm a Web Developer, I work mostly with Front-end and UX/UI Design👾 I 
 
 <img src="images/capoo-work.gif" width="250" height="190" align="right" alt="capoo-work-gif"/>
 
-- 👩🏻‍💻 I’m currently working with React, Vue (Javascript) and Flutter (Dart)!
-- 🚀 I’m currently learning more about design and animations
-- 🔎 I want to learn more about UX design and mobile development
+- 👩🏻‍💻 I’m currently working with React (TypeScript), Next.js and Tailwind!
+- 🚀 I’m currently learning more about back-end development
+- 🔎 I want to learn more about mobile development
 - ⭐️ I really love colors!
 - 🎶 I'm a music enthusiast! Love to listen to and discover new music :)
 - 💬 You can ask me about anything
@@ -53,11 +44,12 @@ Hello! I'm a Web Developer, I work mostly with Front-end and UX/UI Design👾 I 
 ### Languages and Tools:
 
 <br />
+<code><img height="40" src="images/typescript-icon.png" alt="typescript"></code>
 <code><img height="40" src="images/javascript-icon.png" alt="javascript"></code>
 <code><img height="40" src="images/react-icon.png" alt="react"></code>
 <code><img height="40" src="images/vue-icon.png" alt="vue"></code>
-<code><img height="40" src="images/html-icon.png" alt="html"></code>
-<code><img height="40" src="images/css-icon.png" alt="css"></code>
+<code><img height="40" src="images/nextjs-icon.png" alt="nextjs"></code>
+<code><img height="40" src="images/tailwind-css.png" alt="tailwind"></code>
 <code><img height="40" src="images/sass-icon.png" alt="sass"></code>
 <code><img height="40" src="images/flutter-icon.svg" alt="flutter"></code>
 <code><img height="40" src="images/dartlang-icon.svg" alt="dart"></code>
@@ -66,14 +58,15 @@ Hello! I'm a Web Developer, I work mostly with Front-end and UX/UI Design👾 I 
 <code><img height="40" src="images/c-sharp-icon.png" alt="csharp"></code>
 <code><img height="40" src="images/git-icon.svg" alt="git"></code>
 <code><img height="35" src="images/bitbucket-icon.svg" alt="bitbucket"></code>
-<code><img height="45" src="images/adobe-photoshop-icon.png" alt="photoshop"></code>
+<code><img height="40" src="images/html-icon.png" alt="html"></code>
+<code><img height="40" src="images/css-icon.png" alt="css"></code>
 <code><img height="45" src="images/adobe-xd-icon.png" alt="xd"></code>
-<code><img height="40" src="images/figma-icon.png" alt="xd"></code>
+<code><img height="40" src="images/figma-icon.png" alt="figma"></code>
 <br />
 <code><img height="40" src="images/nodejs-icon.svg" alt="node"></code>
 <code><img height="40" src="images/expressjs-icon.svg" alt="expressjs"></code>
-<code><img height="40" src="images/graphql-icon.svg" alt="node"></code>
-<code><img height="40" src="images/apollo-icon.svg" alt="node"></code>
+<code><img height="40" src="images/graphql-icon.svg" alt="graphql"></code>
+<code><img height="40" src="images/apollo-icon.svg" alt="apollo"></code>
 <code><img height="40" src="images/mysql-icon.png" alt="mysql"></code>
 <code><img height="40" src="images/sql-server-icon.png" alt="mssql"></code>
 
@@ -93,36 +86,36 @@ Hello! I'm a Web Developer, I work mostly with Front-end and UX/UI Design👾 I 
 ### Weekly Stats:
 
 <!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C465%20hrs%2019%20mins-blue)
 
-**I'm an Early 🐤** 
+**I'm an Early 🐤**
 
 ```text
-🌞 Morning                157 commits         ████████████░░░░░░░░░░░░░   47.29 % 
-🌆 Daytime                100 commits         ████████░░░░░░░░░░░░░░░░░   30.12 % 
-🌃 Evening                62 commits          █████░░░░░░░░░░░░░░░░░░░░   18.67 % 
-🌙 Night                  13 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+🌞 Morning                157 commits         ████████████░░░░░░░░░░░░░   47.29 %
+🌆 Daytime                100 commits         ████████░░░░░░░░░░░░░░░░░   30.12 %
+🌃 Evening                62 commits          █████░░░░░░░░░░░░░░░░░░░░   18.67 %
+🌙 Night                  13 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: America/Mexico_City
 
-💬 Programming Languages: 
-TypeScript               16 hrs 36 mins      ██████████████████████░░░   86.08 % 
-JSON                     1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
-JavaScript               30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
-SCSS                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
-YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+💬 Programming Languages:
+TypeScript               16 hrs 36 mins      ██████████████████████░░░   86.08 %
+JSON                     1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 %
+JavaScript               30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
+SCSS                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
+YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 
-💻 Operating System: 
-Mac                      19 hrs 17 mins      █████████████████████████   100.00 % 
+💻 Operating System:
+Mac                      19 hrs 17 mins      █████████████████████████   100.00 %
 ```
 
+Last Updated on 09/05/2023 00:50:27 UTC
 
- Last Updated on 09/05/2023 00:50:27 UTC
 <!--END_SECTION:waka-->
 
 <br />
@@ -131,4 +124,5 @@ Mac                      19 hrs 17 mins      ███████████�
 </p>
 
 ### Current Work:
-- 📣 For the past year I've been working on private repositories in Bitbucket, if you wanna know more about my current work you can contact me :)
+
+📣 For the past years I've been working on private repositories, if you wanna know more about my current work you can contact me :)
