@@ -49,7 +49,7 @@ Hello! I'm a Web Developer, I work mostly with Front-end and UX/UI Design👾 <b
 <code><img height="40" src="images/react-icon.png" alt="react"></code>
 <code><img height="40" src="images/vue-icon.png" alt="vue"></code>
 <code><img height="40" src="images/nextjs-icon.png" alt="nextjs"></code>
-<code><img height="40" src="images/tailwind-css.png" alt="tailwind"></code>
+<code><img height="40" src="images/tailwind-css-icon.png" alt="tailwind"></code>
 <code><img height="40" src="images/sass-icon.png" alt="sass"></code>
 <code><img height="40" src="images/flutter-icon.svg" alt="flutter"></code>
 <code><img height="40" src="images/dartlang-icon.svg" alt="dart"></code>
