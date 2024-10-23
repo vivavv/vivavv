@@ -63,8 +63,6 @@ Hello! I'm a Web Developer, I work mostly with Front-end and UX/UI Design👾 <b
 <code><img height="40" src="images/figma-icon.png" alt="figma"></code>
 <code><img height="40" src="images/zeplin-icon.svg" alt="zeplin"></code>
 <code><img height="40" src="images/unity-icon.svg" alt="unity"></code>
-<code><img height="40" src="images/html-icon.png" alt="html"></code>
-<code><img height="40" src="images/css-icon.png" alt="css"></code>
 <code><img height="40" src="images/git-icon.svg" alt="git"></code>
 <code><img height="35" src="images/bitbucket-icon.svg" alt="bitbucket"></code>
 <br />
