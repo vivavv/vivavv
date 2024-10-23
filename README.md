@@ -49,25 +49,27 @@ Hello! I'm a Web Developer, I work mostly with Front-end and UX/UI Design👾 <b
 <code><img height="40" src="images/react-icon.png" alt="react"></code>
 <code><img height="40" src="images/vue-icon.png" alt="vue"></code>
 <code><img height="40" src="images/nextjs-icon.png" alt="nextjs"></code>
-<code><img height="40" src="images/tailwind-css-icon.png" alt="tailwind"></code>
-<code><img height="40" src="images/sass-icon.png" alt="sass"></code>
 <code><img height="40" src="images/flutter-icon.svg" alt="flutter"></code>
 <code><img height="40" src="images/dartlang-icon.svg" alt="dart"></code>
+<code><img height="40" src="images/tailwind-css-icon.png" alt="tailwind"></code>
+<code><img height="40" src="images/sass-icon.png" alt="sass"></code>
 <br />
-<code><img height="40" src="images/unity-icon.svg" alt="unity"></code>
-<code><img height="40" src="images/c-sharp-icon.png" alt="csharp"></code>
-<code><img height="40" src="images/git-icon.svg" alt="git"></code>
-<code><img height="35" src="images/bitbucket-icon.svg" alt="bitbucket"></code>
-<code><img height="40" src="images/html-icon.png" alt="html"></code>
-<code><img height="40" src="images/css-icon.png" alt="css"></code>
-<code><img height="45" src="images/adobe-xd-icon.png" alt="xd"></code>
-<code><img height="40" src="images/figma-icon.png" alt="figma"></code>
-<br />
-<code><img height="40" src="images/nodejs-icon.svg" alt="node"></code>
 <code><img height="40" src="images/graphql-icon.svg" alt="graphql"></code>
 <code><img height="40" src="images/apollo-icon.svg" alt="apollo"></code>
+<code><img height="40" src="images/nodejs-icon.svg" alt="node"></code>
+<code><img height="40" src="images/postgresql-icon.svg" alt="postgres"></code>
 <code><img height="40" src="images/mysql-icon.png" alt="mysql"></code>
-<code><img height="40" src="images/sql-server-icon.png" alt="mssql"></code>
+<br />
+<code><img height="40" src="images/figma-icon.png" alt="figma"></code>
+<code><img height="40" src="images/zeplin-icon.svg" alt="zeplin"></code>
+<code><img height="40" src="images/unity-icon.svg" alt="unity"></code>
+<code><img height="40" src="images/html-icon.png" alt="html"></code>
+<code><img height="40" src="images/css-icon.png" alt="css"></code>
+<code><img height="40" src="images/git-icon.svg" alt="git"></code>
+<code><img height="35" src="images/bitbucket-icon.svg" alt="bitbucket"></code>
+<br />
+
+
 
 <br />
 <br />
