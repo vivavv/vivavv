@@ -22,7 +22,7 @@
 
 <br />
 <span>
-Hello! I'm a Web Developer, I work mostly with Front-end and UX/UI Design👾 <br/> I speak Spanish, English, Portuguese (intermediate) and French (basic)!🌎
+Hello! I'm a Web Developer, I work mostly with Front-end and UX/UI Design👾 <br/> I speak Spanish, English, and French (basic)!🌎
 </span>
 
 <!-- Description -->
@@ -31,11 +31,11 @@ Hello! I'm a Web Developer, I work mostly with Front-end and UX/UI Design👾 <b
 
 <img src="images/capoo-work.gif" width="250" height="190" align="right" alt="capoo-work-gif"/>
 
-- 👩🏻‍💻 I’m currently working with React (TypeScript), Next.js and Tailwind!
-- 🚀 I’m currently learning more about back-end development
+- 👩🏻‍💻 I’m currently working with React + TypeScript + GraphQL!
+- 🚀 Next goal is to do some back-end development
 - 🔎 I want to learn more about mobile development
-- ⭐️ I really love colors!
-- 🎶 I'm a music enthusiast! Love to listen to and discover new music :)
+- ⭐️ I really love all things colorful!
+- 🎶 I like to dance, exercise, listen to music and go to concerts in my free time :)
 - 💬 You can ask me about anything
 
 <br />
@@ -64,7 +64,6 @@ Hello! I'm a Web Developer, I work mostly with Front-end and UX/UI Design👾 <b
 <code><img height="40" src="images/figma-icon.png" alt="figma"></code>
 <br />
 <code><img height="40" src="images/nodejs-icon.svg" alt="node"></code>
-<code><img height="40" src="images/expressjs-icon.svg" alt="expressjs"></code>
 <code><img height="40" src="images/graphql-icon.svg" alt="graphql"></code>
 <code><img height="40" src="images/apollo-icon.svg" alt="apollo"></code>
 <code><img height="40" src="images/mysql-icon.png" alt="mysql"></code>
@@ -125,4 +124,4 @@ Mac                      14 hrs 56 mins      ███████████�
 
 ### Current Work:
 
-📣 For the past years I've been working on private repositories, if you wanna know more about my current work you can contact me :)
+📣 If you wanna know more about my current work, you can contact me :)
