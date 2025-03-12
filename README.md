@@ -103,14 +103,14 @@ Hello! I'm a Web Developer, I work mostly with Front-end and UX/UI Design👾 <b
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-JavaScript               10 mins             █████████████████████████   100.00 % 
+JavaScript               15 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      10 mins             █████████████████████████   100.00 % 
+Mac                      15 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 11/03/2025 01:02:03 UTC
+ Last Updated on 12/03/2025 01:01:05 UTC
 <!--END_SECTION:waka-->
 
 <br />
