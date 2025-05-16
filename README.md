@@ -103,18 +103,14 @@ Hello! I'm a Web Developer, I work mostly with Front-end and UX/UI Design👾 <b
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-TypeScript               8 mins              ████████████░░░░░░░░░░░░░   47.98 % 
-CSS                      3 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.84 % 
-JSON                     3 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
-JavaScript               1 min               ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
-TSConfig                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      18 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 15/05/2025 01:04:50 UTC
+ Last Updated on 16/05/2025 01:08:07 UTC
 <!--END_SECTION:waka-->
 
 <br />
