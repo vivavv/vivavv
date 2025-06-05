@@ -103,18 +103,14 @@ Hello! I'm a Web Developer, I work mostly with Front-end and UX/UI Design👾 <b
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-JavaScript               35 mins             ██████████████████░░░░░░░   70.16 % 
-Dart                     11 mins             ██████░░░░░░░░░░░░░░░░░░░   23.05 % 
-C#                       1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
-Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
-Unity3D Asset            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      50 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 04/06/2025 01:09:33 UTC
+ Last Updated on 05/06/2025 01:08:43 UTC
 <!--END_SECTION:waka-->
 
 <br />
