@@ -85,7 +85,7 @@ Hello! I'm a Web Developer, I work mostly with Front-end and UX/UI Design👾 <b
 ### Weekly Stats:
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C428%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C432%20hrs%2010%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -103,14 +103,17 @@ Hello! I'm a Web Developer, I work mostly with Front-end and UX/UI Design👾 <b
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Dart                     16 mins             ████████████░░░░░░░░░░░░░   46.43 % 
+YAML                     8 mins              ██████░░░░░░░░░░░░░░░░░░░   24.91 % 
+JSON                     8 mins              ██████░░░░░░░░░░░░░░░░░░░   24.09 % 
+Git Config               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      35 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 10/06/2025 01:10:34 UTC
+ Last Updated on 11/06/2025 01:10:03 UTC
 <!--END_SECTION:waka-->
 
 <br />
