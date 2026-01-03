@@ -85,32 +85,8 @@ Hello! I'm a Web Developer, I work mostly with Front-end and UX/UI Design👾 <b
 ### Weekly Stats:
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C745%20hrs%2043%20mins-blue)
 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                167 commits         ███████████░░░░░░░░░░░░░░   45.63 % 
-🌆 Daytime                124 commits         ████████░░░░░░░░░░░░░░░░░   33.88 % 
-🌃 Evening                62 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
-🌙 Night                  13 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Mexico_City
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-
- Last Updated on 02/01/2026 01:14:01 UTC
+ Last Updated on 03/01/2026 01:09:37 UTC
 <!--END_SECTION:waka-->
 
 <br />
