@@ -85,7 +85,7 @@ Hello! I'm a Web Developer, I work mostly with Front-end and UX/UI Design👾 <b
 ### Weekly Stats:
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C810%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C815%20hrs%202%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -103,18 +103,18 @@ Hello! I'm a Web Developer, I work mostly with Front-end and UX/UI Design👾 <b
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-Dart                     8 hrs 15 mins       ███████████████████░░░░░░   76.44 % 
-YAML                     1 hr 33 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
-Svelte                   15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
-Other                    11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
-CocoaPods                11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+Dart                     7 hrs               ███████████████████░░░░░░   75.33 % 
+YAML                     1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
+Svelte                   15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+Other                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+CocoaPods                11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
 
 💻 Operating System: 
-Mac                      10 hrs 48 mins      █████████████████████████   100.00 % 
+Mac                      9 hrs 18 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 05/03/2026 01:28:01 UTC
+ Last Updated on 06/03/2026 01:42:22 UTC
 <!--END_SECTION:waka-->
 
 <br />
