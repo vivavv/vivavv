@@ -103,17 +103,17 @@ Hello! I'm a Web Developer, I work mostly with Front-end and UX/UI Design👾 <b
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-Dart                     5 hrs               ████████████████████████░   94.06 % 
-YAML                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
+Dart                     4 hrs 48 mins       ███████████████████████░░   93.84 % 
+YAML                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 💻 Operating System: 
-Mac                      5 hrs 19 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 7 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 04/04/2026 01:43:40 UTC
+ Last Updated on 05/04/2026 01:55:13 UTC
 <!--END_SECTION:waka-->
 
 <br />
