@@ -85,36 +85,8 @@ Hello! I'm a Web Developer, I work mostly with Front-end and UX/UI Design👾 <b
 ### Weekly Stats:
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C907%20hrs%2022%20mins-blue?style=flat)
 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                167 commits         ███████████░░░░░░░░░░░░░░   45.63 % 
-🌆 Daytime                124 commits         ████████░░░░░░░░░░░░░░░░░   33.88 % 
-🌃 Evening                62 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
-🌙 Night                  13 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Mexico_City
-
-💬 Programming Languages: 
-Dart                     3 hrs 44 mins       ████████████████████████░   95.04 % 
-Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
-YAML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
-Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
-
-💻 Operating System: 
-Mac                      3 hrs 56 mins       █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 28/05/2026 02:35:31 UTC
+ Last Updated on 29/05/2026 02:39:29 UTC
 <!--END_SECTION:waka-->
 
 <br />
